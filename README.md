@@ -1,2 +1,2 @@
-# Paul_Barry
+# :star: Paul Barry
 Head First Python: A Brain-Friendly Guide 2nd Edition
